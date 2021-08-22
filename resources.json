@@ -1,0 +1,95 @@
+{
+    "info": {
+        "description": {
+            "en_US": "Check objects overlapping by pose library",
+            "ja_JP": "ポーズライブラリでオブジェクト間のオーバーラップを確認する"
+        }
+    },
+    "panel": {
+        "result_clear": {
+            "label": {
+                "en_US": "Clear test results",
+                "ja_JP": "テスト結果をクリア"
+            }
+        },
+        "unittest_add": {
+            "label": {
+                "en_US": "Add test entry",
+                "ja_JP": "テストの追加"
+            }
+        },
+        "unittest_remove": {
+            "label": {
+                "en_US": "Remove test entry",
+                "ja_JP": "テストの削除"
+            }
+        },
+        "select_pose_dialog": {
+            "label": {
+                "en_US": "Show test results",
+                "ja_JP": "テスト結果の表示"
+            }
+        },
+        "result_exclude": {
+            "label": {
+                "en_US": "Exclude this target from test",
+                "ja_JP": "この対象をテストから除外する"
+            }
+        },
+        "result_pose": {
+            "label": {
+                "en_US": "Show target objects only",
+                "ja_JP": "対象オブジェクトとポーズのみ表示"
+            }
+        },
+        "result_pose_without_armature": {
+            "label": {
+                "en_US": "Show target objects only (hide armature)",
+                "ja_JP": "対象オブジェクトとポーズのみ表示(アーマチュア非表示)"
+            }
+        },
+        "result_pose_without_armature_wireframe": {
+            "label": {
+                "en_US": "Show target objects only (hide armature, wireframe)",
+                "ja_JP": "対象オブジェクトとポーズのみ表示(アーマチュア非表示、ワイヤーフレーム)"
+            }
+        },
+        "exclude_settings": {
+            "label": {
+                "en_US": "Exclude Settings",
+                "ja_JP": "除外設定"
+            }
+        },
+        "target_add": {
+            "label": {
+                "en_US": "Add test target",
+                "ja_JP": "テスト対象の追加"
+            }
+        },
+        "clear_all_results": {
+            "label": {
+                "en_US": "Clear all results",
+                "ja_JP": "テスト結果をすべてクリア"
+            }
+        },
+        "target_clear_result": {
+            "label": {
+                "en_US": "Clear test results",
+                "ja_JP": "テスト結果のクリア"
+            }
+        },
+        "target_remove": {
+            "label": {
+                "en_US": "Remove test target",
+                "ja_JP": "テスト対象の削除"
+            }
+        },
+        "run_all_tests": {
+            "label": {
+                "en_US": "Run all tests",
+                "ja_JP": "すべてのテストを実行"
+            }
+        }
+    },
+    "property": {}
+}
