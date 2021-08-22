@@ -35,8 +35,7 @@ for name in module_names:
 # アドオン情報
 bl_info = {
     'name': 'Taremin Pose Checker',
-    'category': '0',
-    # 'category': '3D View',
+    'category': '3D View',
     'author': 'Taremin',
     'location': 'View 3D > Taremin',
     'description': "Check objects overlapping by pose library",
